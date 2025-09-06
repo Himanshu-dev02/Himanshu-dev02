@@ -8,6 +8,22 @@
 
 
 
+### 🧑‍💻 About Me  
+🚀 I’m a passionate developer with expertise in Full Stack Web Development
+
+📚 Currently sharpening my skills in Advanced DSA and diving deeper into cutting-edge technologies.
+
+💡 I enjoy working with React, Node.js, Python, and SQL, and I love building scalable, impactful applications.
+
+📧 You can reach me at:meshramhimanshu20@gmail.com  
+
+☕“Behind every clean commit, there’s a cup of coffee.”
+
+⚡ Fun fact: I talk to my code more than I talk to people.
+
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/himanshu meshram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu meshram" height="30" width="40" /></a>
