@@ -2,8 +2,10 @@
 
 
 <h1 align="center">Hello 👋, It's Me Himanshu Meshram</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
-<img align="right" width="400"  alt="image" src="https://github.com/user-attachments/assets/21e8f9e6-819e-4a0b-a98d-30fa272b34ea" />
+<h3 align="center">A passionate Software Developer from India</h3> 
+<img align="right" width="400"  src="https://i.pinimg.com/originals/cc/c2/ab/ccc2ab0a383bf52bac28cb8546d1afc2.gif">
+
+
 
 
 <h3 align="left">Connect with me:</h3>
